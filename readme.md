@@ -17,7 +17,7 @@ For the Email service you might need to add the dependencies that are in activat
 If you are using gmail (as I did) then in https://myaccount.google.com/security you need to set up an App password and use that password. 
 
 ### Note 2
-Since it was a little bit unclear how the csv looks like, there are two functions that read from the file.  
+There are two functions that read from a file (for both variants of forming a csv file)
 The first one is readFromFile() (this is currently the used function) and reads from a csv that looks like 
 ![img_1.png](img_1.png)   
 The second one is readFromFile2() and reads from a csv that looks like

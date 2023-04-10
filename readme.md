@@ -1,4 +1,4 @@
-##SPACE Programme task   
+# SPACE Programme task   
 The application analyzes the weather from the csv file 
 which is given as an input and makes a csv file that contains the best day(s) for launching the space shuttle.  
 The csv file is sent to the recipient's email.   

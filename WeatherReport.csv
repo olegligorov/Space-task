@@ -1,0 +1,7 @@
+Values/Parameter,max,min,average,median,most appropriate day(s)
+Temperature (C),32.0,27.0,29.5,29.0,28.0,28.0,28.0
+Wind (m/s),15.0,2.0,6.5,4.0,3.0,3.0,3.0
+Humidity (%),80.0,15.0,33.5,25.0,20.0,20.0,20.0
+Precipitation (%),40.0,0.0,7.1,0.0,0.0,0.0,0.0
+Lightning,,,,,No,No,No
+Clouds,,,,,Cirrus,Cirrus,Cirrus
